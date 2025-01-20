@@ -1,4 +1,4 @@
-# Cursos de Python da plataforma Curso em Vídeo
+# Cursos de Python
 ## Assuntos abordados:
 ### Mundo 1:
 Tipos primitivos e Saídas de dados  
